@@ -13,5 +13,3 @@ getIQ.addEventListener("click", function () {
     }
     iqDisplay.innerText = "IQ: " + iq;
 });
-
-location = "https://www.youtube.com/watch?v=cGw-8FrRT1E";
